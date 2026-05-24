@@ -85,11 +85,11 @@ export default function Footer() {
 
           {/* Contact */}
           <div>
-            <h4 className="font-semibold mb-4 text-[#4CAF50]">Contact Us</h4>
+            <h4 className="font-semibold mb-4 text-[#4CAF50]">Contact Us - anand patel</h4>
             <ul className="space-y-3">
               <li className="flex items-start gap-3 text-sm text-white/60">
                 <Phone className="w-4 h-4 mt-0.5 shrink-0 text-[#4CAF50]" />
-                <span>+91 98765 43210</span>
+                <span>+91 9301394121</span>
               </li>
               <li className="flex items-start gap-3 text-sm text-white/60">
                 <Mail className="w-4 h-4 mt-0.5 shrink-0 text-[#4CAF50]" />
@@ -97,7 +97,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-3 text-sm text-white/60">
                 <MapPin className="w-4 h-4 mt-0.5 shrink-0 text-[#4CAF50]" />
-                <span>123 Agriculture Market, Pune, Maharashtra 411001</span>
+                <span>123 old shubhsh nagar bhopal mp, 462023</span>
               </li>
               <li className="pt-2">
                 <a
